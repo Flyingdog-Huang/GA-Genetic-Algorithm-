@@ -37,3 +37,16 @@ def calobjValue(pop, chrom_length, max_value):
         obj_value.append(Function.function_1(x))
 
     return obj_value
+
+
+def calpopfit(pops):
+    """
+    因变量值计算
+    :param pops:
+    :return:
+    """
+    pops_fit = []
+    for x in pops:
+        fit = Function.function_4(x)
+        pops_fit.append(fit)
+    return pops_fit

@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed26a255-f789-4ced-90b2-e01025006afa" name="默认更改列表" comment="" />
+    <list default="true" id="ed26a255-f789-4ced-90b2-e01025006afa" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/GA(Genetic Algorithm).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAmodel/GA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/738.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/fig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/str2int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/testCopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/testInt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/testPLT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/CalfitValue.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/CalfitValue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/CalobjValue.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/CalobjValue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/Crossover.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/Crossover.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/GeneEncoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/GeneEncoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/Mutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/Mutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/Selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/Selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/testRandom.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test/testRandom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/testlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test/testlist.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +40,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1k7lul45VIq8wdVYLV6pgfvySQT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -109,6 +139,11 @@
       <workItem from="1606100711237" duration="3587000" />
       <workItem from="1606179596281" duration="5128000" />
       <workItem from="1606196587797" duration="3722000" />
+      <workItem from="1607053442772" duration="1294000" />
+      <workItem from="1608251864411" duration="2043000" />
+      <workItem from="1608514656967" duration="609000" />
+      <workItem from="1608597967112" duration="3090000" />
+      <workItem from="1608684008817" duration="1448000" />
     </task>
     <servers />
   </component>
@@ -120,28 +155,28 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1606024559474" />
-    <state width="1237" height="132" key="GridCell.Tab.0.bottom" timestamp="1606216795873">
+    <state width="1237" height="133" key="GridCell.Tab.0.bottom" timestamp="1608290915928">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="132" key="GridCell.Tab.0.bottom/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1606216795873" />
+    <state width="1237" height="133" key="GridCell.Tab.0.bottom/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1608290915928" />
     <state width="1877" height="137" key="GridCell.Tab.0.bottom/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1605786783241" />
     <state width="1237" height="130" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1606186028052" />
-    <state width="1237" height="132" key="GridCell.Tab.0.center" timestamp="1606216795873">
+    <state width="1237" height="133" key="GridCell.Tab.0.center" timestamp="1608290915927">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="132" key="GridCell.Tab.0.center/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1606216795873" />
+    <state width="1237" height="133" key="GridCell.Tab.0.center/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1608290915927" />
     <state width="1877" height="137" key="GridCell.Tab.0.center/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1605786783241" />
     <state width="1237" height="130" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1606186028052" />
-    <state width="1237" height="132" key="GridCell.Tab.0.left" timestamp="1606216795873">
+    <state width="1237" height="133" key="GridCell.Tab.0.left" timestamp="1608290915927">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="132" key="GridCell.Tab.0.left/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1606216795873" />
+    <state width="1237" height="133" key="GridCell.Tab.0.left/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1608290915927" />
     <state width="1877" height="137" key="GridCell.Tab.0.left/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1605786783241" />
     <state width="1237" height="130" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1606186028052" />
-    <state width="1237" height="132" key="GridCell.Tab.0.right" timestamp="1606216795873">
+    <state width="1237" height="133" key="GridCell.Tab.0.right" timestamp="1608290915927">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="132" key="GridCell.Tab.0.right/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1606216795873" />
+    <state width="1237" height="133" key="GridCell.Tab.0.right/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1608290915927" />
     <state width="1877" height="137" key="GridCell.Tab.0.right/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1605786783241" />
     <state width="1237" height="130" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1606186028052" />
     <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1605972111518">
@@ -164,15 +199,15 @@
       <screen x="6" y="-1080" width="1920" height="1080" />
     </state>
     <state x="552" y="-971" key="SettingsEditor/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1605059871967" />
-    <state x="229" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1606179601723">
+    <state x="229" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1608684023985">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="229" y="226" key="com.intellij.ide.util.TipDialog/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1606179601723" />
+    <state x="229" y="226" key="com.intellij.ide.util.TipDialog/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1608684023985" />
     <state x="350" y="-726" key="com.intellij.ide.util.TipDialog/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1605673169786" />
     <state x="229" y="226" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1605925313725" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NSGA$main.coverage" NAME="main Coverage Results" MODIFIED="1606181822165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NSGA2" />
-    <SUITE FILE_PATH="coverage/NSGA$basic.coverage" NAME="basic Coverage Results" MODIFIED="1606207854315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NSGA$basic.coverage" NAME="basic Coverage Results" MODIFIED="1608282214524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

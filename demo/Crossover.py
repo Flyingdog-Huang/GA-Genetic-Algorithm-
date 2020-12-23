@@ -40,7 +40,7 @@ def crossover(pop, pc, fit_value, chrom_length, max_value):
     for i in range(pop_len):
         if random.random() < pc:
             mother, father = findMoFa(pop, fit_value, chrom_length, max_value)
-            cpoint = random.randint(1, len(pop[0])-2)  # 随机交叉点（单点交叉策略）
+            cpoint = random.randint(1, len(pop[0]) - 2)  # 随机交叉点（单点交叉策略）
             temp1 = []
             temp2 = []
             temp1.extend(mother[0:cpoint])
@@ -51,3 +51,34 @@ def crossover(pop, pc, fit_value, chrom_length, max_value):
             pop.append(temp2)
             fit_value = calobjValue(pop, chrom_length, max_value)
     return pop, fit_value
+
+
+def crosspops10(pops, pc, iti, vars_rang):
+    n = len(pops)
+    for i in range(n):
+        if random.random() < pc:
+            j = random.randint(0, n - 1)
+            while j == i:
+                j = random.randint(0, n - 1)
+            ui = random.random()
+            bi = (1 / (2 * (1 - ui))) ** (1 / (iti + 1))
+            if ui <= 0.5:
+                bi = (2 * ui) ** (1 / (iti + 1))
+            popi_new = []
+            popj_new = []
+            for z in range(len(pops[i])):
+                # for xi, xj, x_rang in zip(pops[i], pops[j], vars_rang):
+                xi = pops[i][z]
+                xj = pops[j][z]
+                x_rang = vars_rang[z]
+                xi_new = 0.5 * ((1 + bi) * xi + (1 - bi) * xj)
+                xj_new = 0.5 * ((1 - bi) * xi + (1 + bi) * xj)
+                if x_rang[0] <= xi_new <= x_rang[1]:
+                    popi_new.append(xi_new)
+                if x_rang[0] <= xj_new <= x_rang[1]:
+                    popj_new.append(xi_new)
+            if len(popi_new) == len(pops[0]):
+                pops.append(popi_new)
+            if len(popj_new) == len(pops[0]):
+                pops.append(popj_new)
+    return pops

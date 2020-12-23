@@ -15,3 +15,11 @@ def calfitValue(obj_value):
             temp = 0.0
         fit_value.append(temp)
     return fit_value
+
+
+def rule_3(pops):
+    new_pop = []
+    for pop in pops:
+        if pop >= 0:
+            new_pop.append(pop)
+    return new_pop

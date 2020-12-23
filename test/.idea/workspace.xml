@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47413167-1cfd-4a6d-9e60-d0a093dd4234" name="默认更改列表" comment="" />
+    <list default="true" id="47413167-1cfd-4a6d-9e60-d0a093dd4234" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/GA(Genetic Algorithm).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GAmodel/GA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/738.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/str2int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testInt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testPLT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NSGA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NSGA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/CalfitValue.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/CalfitValue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/CalobjValue.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/CalobjValue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/Crossover.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/Crossover.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/GeneEncoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/GeneEncoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/Mutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/Mutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/Selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/Selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testRandom.py" beforeDir="false" afterPath="$PROJECT_DIR$/testRandom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/testlist.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,20 +40,28 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1k5uVCNA7xB27VxMDJwFoUxyq4L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../NSGA" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.testlist">
-    <configuration name="listAddTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.testCopy">
+    <configuration name="str2int" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,7 +74,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listAddTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str2int.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -49,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testRandom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="testCopy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +96,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testRandom.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCopy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testandor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="testInt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +118,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testandor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testInt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testPLT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testPLT.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,35 +171,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testsort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.testCopy" />
+        <item itemvalue="Python.testPLT" />
+        <item itemvalue="Python.testInt" />
         <item itemvalue="Python.testlist" />
-        <item itemvalue="Python.testandor" />
-        <item itemvalue="Python.testRandom" />
-        <item itemvalue="Python.testsort" />
-        <item itemvalue="Python.listAddTest" />
+        <item itemvalue="Python.str2int" />
       </list>
     </recent_temporary>
   </component>
@@ -176,37 +210,60 @@
       <workItem from="1606100667322" duration="673000" />
       <workItem from="1606180609537" duration="616000" />
       <workItem from="1606196556166" duration="630000" />
+      <workItem from="1606278565440" duration="1261000" />
+      <workItem from="1606365579893" duration="861000" />
+      <workItem from="1606791864420" duration="17000" />
+      <workItem from="1606806398673" duration="661000" />
+      <workItem from="1606876968662" duration="639000" />
+      <workItem from="1607402177059" duration="661000" />
+      <workItem from="1608031499944" duration="1019000" />
+      <workItem from="1608186132156" duration="1884000" />
+      <workItem from="1608251784120" duration="1255000" />
+      <workItem from="1608512541367" duration="3513000" />
+      <workItem from="1608597974145" duration="5687000" />
+      <workItem from="1608688254714" duration="1742000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1606100707865">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1606100707865" />
-    <state width="1237" height="161" key="GridCell.Tab.0.bottom" timestamp="1605977049724">
+    <state width="1237" height="289" key="GridCell.Tab.0.bottom" timestamp="1608709510023">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1877" height="64" key="GridCell.Tab.0.bottom/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1605865127085" />
+    <state width="1237" height="289" key="GridCell.Tab.0.bottom/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1608709510023" />
+    <state width="1877" height="289" key="GridCell.Tab.0.bottom/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1608691619919" />
     <state width="1237" height="161" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1605977049724" />
-    <state width="1237" height="161" key="GridCell.Tab.0.center" timestamp="1605977049723">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.834/6.-1080.1920.1080@0.0.1536.834" timestamp="1608210927435" />
+    <state width="1237" height="289" key="GridCell.Tab.0.center" timestamp="1608709510023">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1877" height="64" key="GridCell.Tab.0.center/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1605865127084" />
+    <state width="1237" height="289" key="GridCell.Tab.0.center/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1608709510023" />
+    <state width="1877" height="289" key="GridCell.Tab.0.center/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1608691619919" />
     <state width="1237" height="161" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1605977049723" />
-    <state width="1237" height="161" key="GridCell.Tab.0.left" timestamp="1605977049723">
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.834/6.-1080.1920.1080@0.0.1536.834" timestamp="1608210927435" />
+    <state width="1237" height="289" key="GridCell.Tab.0.left" timestamp="1608709510023">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1877" height="64" key="GridCell.Tab.0.left/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1605865127084" />
+    <state width="1237" height="289" key="GridCell.Tab.0.left/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1608709510023" />
+    <state width="1877" height="289" key="GridCell.Tab.0.left/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1608691619918" />
     <state width="1237" height="161" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1605977049723" />
-    <state width="1237" height="161" key="GridCell.Tab.0.right" timestamp="1605977049724">
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.834/6.-1080.1920.1080@0.0.1536.834" timestamp="1608210927435" />
+    <state width="1237" height="289" key="GridCell.Tab.0.right" timestamp="1608709510023">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1877" height="64" key="GridCell.Tab.0.right/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1605865127085" />
+    <state width="1237" height="289" key="GridCell.Tab.0.right/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1608709510023" />
+    <state width="1877" height="289" key="GridCell.Tab.0.right/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1608691619919" />
     <state width="1237" height="161" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1605977049724" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.834/6.-1080.1920.1080@0.0.1536.834" timestamp="1608210927435" />
     <state width="1220" height="340" key="GridCell.Tab.1.bottom" timestamp="1605005698163">
       <screen x="6" y="-1080" width="1920" height="1080" />
     </state>
@@ -227,21 +284,28 @@
       <screen x="6" y="-1080" width="1920" height="1080" />
     </state>
     <state x="6" y="-716" key="SettingsEditor/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1605008129693" />
-    <state x="339" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1606196556436">
+    <state x="339" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1608512547331">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="339" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1606196556436" />
+    <state x="339" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.689/6.-1080.1920.1080@0.0.1280.689" timestamp="1608512547331" />
     <state x="515" y="-1080" key="com.intellij.ide.util.TipDialog/0.0.1280.689/6.-1080.1920.1080@6.-1080.1920.1080" timestamp="1605746471932" />
     <state x="339" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1606007764250" />
+    <state x="407" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.834/6.-1080.1920.1080@0.0.1536.834" timestamp="1608251814488" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/test$random.coverage" NAME="random Coverage Results" MODIFIED="1605006494553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$testFor.coverage" NAME="testFor Coverage Results" MODIFIED="1605669750819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$testPLT.coverage" NAME="testPLT Coverage Results" MODIFIED="1608688323279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$listAddTest.coverage" NAME="listAddTest Coverage Results" MODIFIED="1605767522655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$testlist.coverage" NAME="testlist Coverage Results" MODIFIED="1605977049717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$testWhile.coverage" NAME="testWhile Coverage Results" MODIFIED="1605685538123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$testandor.coverage" NAME="testandor Coverage Results" MODIFIED="1605970476602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$testRandom.coverage" NAME="testRandom Coverage Results" MODIFIED="1605969975675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$dict.coverage" NAME="dict Coverage Results" MODIFIED="1608210437847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$testlist.coverage" NAME="testlist Coverage Results" MODIFIED="1608605362489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$testInt.coverage" NAME="testInt Coverage Results" MODIFIED="1608624422117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$738.coverage" NAME="738 Coverage Results" MODIFIED="1608031743504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$testCopy.coverage" NAME="testCopy Coverage Results" MODIFIED="1608691619913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$str2int.coverage" NAME="str2int Coverage Results" MODIFIED="1608210502960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$testRandom.coverage" NAME="testRandom Coverage Results" MODIFIED="1606806457539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$maxmin.coverage" NAME="maxmin Coverage Results" MODIFIED="1605014333935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$creat2.coverage" NAME="creat2 Coverage Results" MODIFIED="1605017349404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$testsort.coverage" NAME="testsort Coverage Results" MODIFIED="1605836192960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
